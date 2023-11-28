@@ -1,6 +1,6 @@
 {
-    "name": "CatoBaskan",
-    "short_name": "CatoBaskan",
+    "name": "cato_cat",
+    "short_name": "cato_cat",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
