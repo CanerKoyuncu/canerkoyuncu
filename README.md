@@ -1,1 +1,1 @@
-canerkoyuncu.github.io
+canerkoyuncu.github.io/canerkoyuncu
